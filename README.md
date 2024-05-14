@@ -54,7 +54,7 @@ VOCÊS DEVERÃO FAZER APENAS OS DOIS PRIMEIROS EXEMPLOS:O primeiro exemplo é a 
 ```
 ![Texto alternativo](img/imgum.png)
 
-# Passo 2 - Exibir a nova métrica
+## Passo 2 - Exibir a nova métrica
 - Instale a ferramenta dotnet-counters, então coloque esse comando no terminal:
 
 ```
