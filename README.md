@@ -68,3 +68,6 @@ VOCÊS DEVERÃO FAZER APENAS OS DOIS PRIMEIROS EXEMPLOS:O primeiro exemplo é a 
 ```
 
 ![Texto alternativo](img/imgdois.png)
+
+# Parte 2 - Obtenha um Medidor por meio da injeção de dependência
+
