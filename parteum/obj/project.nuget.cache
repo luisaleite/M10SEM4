@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gz89puvvzC0uHpXtVGdrN+FpjmfGGFgomLou8mZk2JbOuaN9yWxPmYkrFy2jmwPkCmFd4+Fx0ZLISBBCWAqVmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Inteli\\Documents\\GitHub\\M10SEM4\\parteum\\parteum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Inteli\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
