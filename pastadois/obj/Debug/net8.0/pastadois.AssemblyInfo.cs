@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("parteum")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("pastadois")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05ee3502d6504f4291b5ac34a9f1934b7dff6f7b")]
-[assembly: System.Reflection.AssemblyProductAttribute("parteum")]
-[assembly: System.Reflection.AssemblyTitleAttribute("parteum")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edbc56756575222c6b9289f5b2545f80c19e1def")]
+[assembly: System.Reflection.AssemblyProductAttribute("pastadois")]
+[assembly: System.Reflection.AssemblyTitleAttribute("pastadois")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

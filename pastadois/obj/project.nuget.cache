@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BLxgkg/sWG1a9iSLYR3wWinbOSrnbs4wyTeYzPjNSWiSymPJDUQIT2aNlXNmaat3lAT0CKH1p9/evNeHvmH8Lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Inteli\\Documents\\GitHub\\M10SEM4\\pastadois\\pastadois.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Inteli\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
