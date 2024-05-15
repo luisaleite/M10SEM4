@@ -71,3 +71,6 @@ VOCÊS DEVERÃO FAZER APENAS OS DOIS PRIMEIROS EXEMPLOS:O primeiro exemplo é a 
 
 # Parte 2 - Obtenha um Medidor por meio da injeção de dependência
 
+A parte do tutorial sobre "Obtenha um Medidor por meio da injeção de dependência" é encontrada na pasta chamada "pastadois". Nessa parte o pricipal assunto é a injeção de depedências (injeção de depedências é um padrão de projeto usado para evitar o alto nível de acoplamento de código dentro de uma aplicação)
+
+A segunda parte do tutorial explica como utilizar a injeção de dependência para obter um objeto Medidor em vez de criar diretamente com new (como foi feito na parte um), mostrando um exemplo de implementação em um aplicativo ASP.NET Core.

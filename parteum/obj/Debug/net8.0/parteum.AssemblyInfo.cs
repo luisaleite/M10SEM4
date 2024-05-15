@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("parteum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05ee3502d6504f4291b5ac34a9f1934b7dff6f7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce95672f790dc3f5ad017449bda2406239620a25")]
 [assembly: System.Reflection.AssemblyProductAttribute("parteum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("parteum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

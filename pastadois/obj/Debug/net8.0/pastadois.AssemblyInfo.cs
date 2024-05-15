@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pastadois")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edbc56756575222c6b9289f5b2545f80c19e1def")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce95672f790dc3f5ad017449bda2406239620a25")]
 [assembly: System.Reflection.AssemblyProductAttribute("pastadois")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pastadois")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

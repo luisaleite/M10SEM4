@@ -1,4 +1,11 @@
-﻿public class HatCoMetrics
+﻿using System;
+using System.Diagnostics.Metrics;
+using System.Threading;
+
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddSingleton<HatCoMetrics>();
+
+public class HatCoMetrics
 {
     private readonly Counter<int> _hatsSold;
 
@@ -14,12 +21,10 @@
     }
 }
 
-var builder = pastadois.CreateBuilder(args);
-builder.Services.AddSingleton<HatCoMetrics>();
-
 app.MapPost("/complete-sale", ([FromBody] SaleModel model, HatCoMetrics metrics) =>
 {
     // ... business logic such as saving the sale to a database ...
 
     metrics.HatsSold(model.QuantitySold);
 });
+
